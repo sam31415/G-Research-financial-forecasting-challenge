@@ -1,1 +1,3 @@
-"# G-Research-financial-forecasting-challenge" 
+G-Research-financial-forecasting-challenge
+
+
